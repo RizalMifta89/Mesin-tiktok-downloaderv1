@@ -1,0 +1,17 @@
+Pyrogram==2.0.106
+TgCrypto==1.2.5
+
+psutil>=5.9,<8
+
+yt-dlp[default,curl-cffi]
+gallery-dl
+
+PySocks>=1.7.1
+brotli>=1.1.0
+zstandard>=0.22
+PyYAML>=6.0
+truststore>=0.9
+
+selenium>=4.20
+
+speedtest-cli==2.1.3
